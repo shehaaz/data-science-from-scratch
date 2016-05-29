@@ -51,3 +51,8 @@ The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehf
 23. [Databases and SQL](https://github.com/joelgrus/data-science-from-scratch/blob/master/code/databases.py)
 24. [MapReduce](https://github.com/joelgrus/data-science-from-scratch/blob/master/code/mapreduce.py)
 25. Go Forth And Do Data Science
+
+Edit:
+May 29th, 2016
+Attempting to Write the code in Scala
+- Shehaaz
