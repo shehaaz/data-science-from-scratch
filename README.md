@@ -54,5 +54,7 @@ The data is in a [spreadsheet](https://docs.google.com/spreadsheets/d/1mjGp94ehf
 
 Edit:
 May 29th, 2016
+
 Attempting to Write the code in Scala
-- Shehaaz
+
+Shehaaz
